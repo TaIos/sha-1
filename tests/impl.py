@@ -1,3 +1,5 @@
+# SHA1 custom implementation
+
 import hashlib
 
 def sha1(data):

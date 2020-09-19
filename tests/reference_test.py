@@ -1,7 +1,7 @@
 import hashlib
 import string 
 import random
-from sha1_impl import sha1
+from impl import sha1
 
 def test_sha1():
     for N in range(1000): # data length
